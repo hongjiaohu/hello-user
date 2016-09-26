@@ -1,0 +1,9 @@
+\\sjsdfs1.sjsd.lcl\students\h.hu\my documents\visual studio 2015\Projects\hongjiao hu\bin\Debug\hongjiao hu.exe.config
+\\sjsdfs1.sjsd.lcl\students\h.hu\my documents\visual studio 2015\Projects\hongjiao hu\bin\Debug\hongjiao hu.exe
+\\sjsdfs1.sjsd.lcl\students\h.hu\my documents\visual studio 2015\Projects\hongjiao hu\bin\Debug\hongjiao hu.pdb
+\\sjsdfs1.sjsd.lcl\students\h.hu\my documents\visual studio 2015\Projects\hongjiao hu\obj\Debug\hongjiao hu.csprojResolveAssemblyReference.cache
+\\sjsdfs1.sjsd.lcl\students\h.hu\my documents\visual studio 2015\Projects\hongjiao hu\obj\Debug\hongjiao_hu.Form1.resources
+\\sjsdfs1.sjsd.lcl\students\h.hu\my documents\visual studio 2015\Projects\hongjiao hu\obj\Debug\hongjiao_hu.Properties.Resources.resources
+\\sjsdfs1.sjsd.lcl\students\h.hu\my documents\visual studio 2015\Projects\hongjiao hu\obj\Debug\hongjiao hu.csproj.GenerateResource.Cache
+\\sjsdfs1.sjsd.lcl\students\h.hu\my documents\visual studio 2015\Projects\hongjiao hu\obj\Debug\hongjiao hu.exe
+\\sjsdfs1.sjsd.lcl\students\h.hu\my documents\visual studio 2015\Projects\hongjiao hu\obj\Debug\hongjiao hu.pdb
